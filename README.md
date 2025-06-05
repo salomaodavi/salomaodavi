@@ -39,11 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 Estatísticas do GitHub
-![Salomao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salomaodavi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomaodavi&layout=compact&theme=tokyonight)
-
 ## ✉️ Contato
 - 📫 Email: salomaodavicardoso@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/salomao-davi

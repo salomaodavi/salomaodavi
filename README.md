@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Salomao!
 
-## 🚀 Engenheiro de Software | Java | Go | AWS | Python | Spring Boot | Microservices | SQL | Docker | React
+## 🚀 Engenheiro de Software | Java | Go | AWS | Python | Spring Boot | Microservices | SQL | Docker | 
 
 ### 💻 Sobre mim
 - 🔥 Engenheiro de Software apaixonado por desenvolvimento backend e cloud.
